@@ -64,7 +64,7 @@ This document evaluates and compares Nginx with its major competitors based on p
 | **Web Server** | **Strengths** | **Weaknesses** |
 |---------------|--------------|---------------|
 | **Nginx** | High performance and scalability.<br> Low resource usage.<br> Built-in reverse proxy and load balancing. | Complex configuration syntax.<br> Less native support for dynamic content compared to Apache. |
-| **Apache** | Extensive module support.<br>- Strong community and documentation. | Higher memory and CPU consumption.<br> Slower under heavy concurrent load. |
+| **Apache** | Extensive module support.<br> Strong community and documentation. | Higher memory and CPU consumption.<br> Slower under heavy concurrent load. |
 | **Caddy** |  Simple configuration with automatic SSL.<br> Lightweight and easy to set up. |  Limited ecosystem and support.<br> Not widely adopted in production environments. |
 | **LiteSpeed** |  Fastest PHP performance.<br> Built-in security features. |  Proprietary licensing.<br> Limited community support. |
 
