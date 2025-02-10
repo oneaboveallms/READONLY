@@ -32,12 +32,23 @@ This document evaluates and compares Nginx with its major competitors based on p
 ***
 # Nginx
 
-<img src="assets/nginx.jpg" alt="Nginx Image" width="200">
+<img src="assets/nginx.jpg" alt="Nginx Image" width="100">
 - A high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently.
--   
-- **Apache**: A widely used open-source web server with extensive module support and easy configuration.  
-- **Caddy**: A modern web server that simplifies HTTPS management with automatic SSL certificate provisioning.  
-- **LiteSpeed**: A high-performance web server optimized for speed and efficiency, often used in enterprise and hosting environments.  
+
+ # Apache
+
+<img src="assets/apache.png" alt="Nginx Image" width="100">
+- A widely used open-source web server with extensive module support and easy configuration.
+
+ # Caddy
+
+<img src="assets/caddy.jpg" alt="Nginx Image" width="100">
+- A modern web server that simplifies HTTPS management with automatic SSL certificate provisioning.  
+
+ # LiteSpeed
+
+<img src="assets/lightspeed.jpg" alt="Nginx Image" width="100">
+- A high-performance web server optimized for speed and efficiency, often used in enterprise and hosting environments.  
 
 ## Pre-requirements Table
 
