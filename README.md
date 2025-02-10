@@ -33,7 +33,8 @@ This document evaluates and compares Nginx with its major competitors based on p
 # Nginx
 
 <img src="assets/nginx.jpg" alt="Nginx Image" width="150">
-- **A** high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently.
+- **A high-performance, lightweight web server.**
+- A high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently.
 - It is widely used for serving static content, load balancing, and reverse proxying. 
 - Nginx is known for its scalability and event-driven architecture, making it ideal for handling high traffic loads.
 
