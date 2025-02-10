@@ -30,7 +30,8 @@ This document evaluates and compares Nginx with its major competitors based on p
 ## Tools Description
 
 ***
-#Nginx 
+# Nginx
+
 <img src="assets/nginx.jpg" alt="Nginx Image" width="200">
 - A high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently.
 -   
