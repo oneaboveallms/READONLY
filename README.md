@@ -33,22 +33,22 @@ This document evaluates and compares Nginx with its major competitors based on p
 # Nginx
 
 <img src="assets/nginx.jpg" alt="Nginx Image" width="150">
-- A high-performance, lightweight web server. A high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently. It is widely used for serving static content, load balancing, and reverse proxying. Nginx is known for its scalability and event-driven architecture, making it ideal for handling high traffic loads.
+A high-performance, lightweight web server. A high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently. It is widely used for serving static content, load balancing, and reverse proxying. Nginx is known for its scalability and event-driven architecture, making it ideal for handling high traffic loads.
 
  # Apache
 
 <img src="assets/apache.png" alt="Nginx Image" width="150">
-- A widely used open-source web server with extensive module support and easy configuration. Apache supports a vast array of plugins, allowing customization for different use cases. It is well-suited for dynamic content, supports .htaccess for per-directory configuration, and integrates well with multiple programming languages like PHP, Python, and Perl.
+A widely used open-source web server with extensive module support and easy configuration. Apache supports a vast array of plugins, allowing customization for different use cases. It is well-suited for dynamic content, supports .htaccess for per-directory configuration, and integrates well with multiple programming languages like PHP, Python, and Perl.
 
  # Caddy
 
 <img src="assets/caddy.jpg" alt="Nginx Image" width="150">
-- A modern web server that simplifies HTTPS management with automatic SSL certificate provisioning. It is known for its simple and user-friendly configuration using the `Caddyfile`. Caddy provides built-in support for HTTP/2 and HTTP/3, making it a great choice for secure and modern web applications with minimal setup.
+A modern web server that simplifies HTTPS management with automatic SSL certificate provisioning. It is known for its simple and user-friendly configuration using the `Caddyfile`. Caddy provides built-in support for HTTP/2 and HTTP/3, making it a great choice for secure and modern web applications with minimal setup.
 
  # LiteSpeed
 
 <img src="assets/lightspeed.jpg" alt="Nginx Image" width="150">
-- A high-performance web server optimized for speed and efficiency, often used in enterprise and hosting environments. It is designed as a drop-in replacement for Apache, offering better performance while maintaining compatibility with Apache’s configuration. LiteSpeed includes advanced caching mechanisms, built-in DDoS protection, and event-driven processing for improved efficiency.
+A high-performance web server optimized for speed and efficiency, often used in enterprise and hosting environments. It is designed as a drop-in replacement for Apache, offering better performance while maintaining compatibility with Apache’s configuration. LiteSpeed includes advanced caching mechanisms, built-in DDoS protection, and event-driven processing for improved efficiency.
 
 
 ## Pre-requirements Table
