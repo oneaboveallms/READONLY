@@ -28,7 +28,10 @@ This document evaluates and compares Nginx with its major competitors based on p
 - **LiteSpeed**
 
 ## Tools Description
-- **Nginx**: A high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently.  
+#Nginx 
+![image](assets/nginx.jpg)
+- A high-performance, lightweight web server and reverse proxy designed for handling multiple concurrent connections efficiently.
+-   
 - **Apache**: A widely used open-source web server with extensive module support and easy configuration.  
 - **Caddy**: A modern web server that simplifies HTTPS management with automatic SSL certificate provisioning.  
 - **LiteSpeed**: A high-performance web server optimized for speed and efficiency, often used in enterprise and hosting environments.  
