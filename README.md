@@ -63,10 +63,10 @@ This document evaluates and compares Nginx with its major competitors based on p
 ## Strengths & Weaknesses
 | **Web Server** | **Strengths** | **Weaknesses** |
 |---------------|--------------|---------------|
-| **Nginx** | - High performance and scalability.<br>- Low resource usage.<br>- Built-in reverse proxy and load balancing. | - Complex configuration syntax.<br>- Less native support for dynamic content compared to Apache. |
-| **Apache** | - Extensive module support.<br>- Strong community and documentation. | - Higher memory and CPU consumption.<br>- Slower under heavy concurrent load. |
-| **Caddy** | - Simple configuration with automatic SSL.<br>- Lightweight and easy to set up. | - Limited ecosystem and support.<br>- Not widely adopted in production environments. |
-| **LiteSpeed** | - Fastest PHP performance.<br>- Built-in security features. | - Proprietary licensing.<br>- Limited community support. |
+| **Nginx** | High performance and scalability.<br> Low resource usage.<br> Built-in reverse proxy and load balancing. | Complex configuration syntax.<br> Less native support for dynamic content compared to Apache. |
+| **Apache** | Extensive module support.<br>- Strong community and documentation. | Higher memory and CPU consumption.<br> Slower under heavy concurrent load. |
+| **Caddy** |  Simple configuration with automatic SSL.<br> Lightweight and easy to set up. |  Limited ecosystem and support.<br> Not widely adopted in production environments. |
+| **LiteSpeed** |  Fastest PHP performance.<br> Built-in security features. |  Proprietary licensing.<br> Limited community support. |
 
 ## Conclusion
 Nginx is an excellent choice for high-performance web serving and reverse proxying, making it suitable for high-traffic websites. Apache remains a strong option due to its modularity and ease of use. Caddy is ideal for quick deployments with automatic SSL, while LiteSpeed is best for performance-intensive applications, especially in hosting environments. The right choice depends on specific use cases, such as ease of configuration, security, and scalability.
