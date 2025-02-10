@@ -61,43 +61,12 @@ This document evaluates and compares Nginx with its major competitors based on p
 | **License**         | Open-source (FOSS) | Open-source (FOSS)  | Open-source (FOSS)  | Proprietary (Free & Paid) |
 
 ## Strengths & Weaknesses
-
-### **Nginx**  
-✅ **Strengths**:  
-- High performance and scalability.  
-- Low resource usage.  
-- Built-in reverse proxy and load balancing.  
-
-❌ **Weaknesses**:  
-- Complex configuration syntax.  
-- Less native support for dynamic content compared to Apache.  
-
-### **Apache**  
-✅ **Strengths**:  
-- Extensive module support.  
-- Strong community and documentation.  
-
-❌ **Weaknesses**:  
-- Higher memory and CPU consumption.  
-- Slower under heavy concurrent load.  
-
-### **Caddy**  
-✅ **Strengths**:  
-- Simple configuration with automatic SSL.  
-- Lightweight and easy to set up.  
-
-❌ **Weaknesses**:  
-- Limited ecosystem and support.  
-- Not widely adopted in production environments.  
-
-### **LiteSpeed**  
-✅ **Strengths**:  
-- Fastest PHP performance.  
-- Built-in security features.  
-
-❌ **Weaknesses**:  
-- Proprietary licensing.  
-- Limited community support.  
+| **Web Server** | **Strengths** | **Weaknesses** |
+|---------------|--------------|---------------|
+| **Nginx** | - High performance and scalability.<br>- Low resource usage.<br>- Built-in reverse proxy and load balancing. | - Complex configuration syntax.<br>- Less native support for dynamic content compared to Apache. |
+| **Apache** | - Extensive module support.<br>- Strong community and documentation. | - Higher memory and CPU consumption.<br>- Slower under heavy concurrent load. |
+| **Caddy** | - Simple configuration with automatic SSL.<br>- Lightweight and easy to set up. | - Limited ecosystem and support.<br>- Not widely adopted in production environments. |
+| **LiteSpeed** | - Fastest PHP performance.<br>- Built-in security features. | - Proprietary licensing.<br>- Limited community support. |
 
 ## Conclusion
 Nginx is an excellent choice for high-performance web serving and reverse proxying, making it suitable for high-traffic websites. Apache remains a strong option due to its modularity and ease of use. Caddy is ideal for quick deployments with automatic SSL, while LiteSpeed is best for performance-intensive applications, especially in hosting environments. The right choice depends on specific use cases, such as ease of configuration, security, and scalability.
