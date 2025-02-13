@@ -12,8 +12,12 @@
 6. [Contacts](#contacts)
 7. [References](#references)
 
+<br>
+
 ## Introduction
 Application repositories serve as centralized locations where software applications and their related dependencies, libraries, and packages are stored, managed, and distributed. These repositories help streamline software deployment, version control, and updates, making them essential for developers, DevOps teams, and system administrators.
+
+<br>
 
 ## Why Identify Application Repositories?
 
@@ -24,6 +28,7 @@ Identifying application repositories is crucial for various reasons:
 - **Version Control**: Facilitates rollback and controlled upgrades.
 - **Collaboration**: Supports team-based development and CI/CD pipelines.
 
+<br>
 
 ## List of Application Repositories
 
@@ -35,6 +40,8 @@ Identifying application repositories is crucial for various reasons:
 | **Cloud Repositories** | AWS CodeArtifact, Google Cloud Source Repositories, Azure DevOps Repos |
 | **Container Registries** | AWS ECR, Google GCR, Azure ACR, Docker Hub, Harbor |
 
+<br>
+
 ## Advantages and Disadvantages
 
 | **Aspect** | **Advantages** | **Disadvantages** |
@@ -45,15 +52,21 @@ Identifying application repositories is crucial for various reasons:
 | **Compliance** | Helps enforce licensing and governance policies | License compatibility issues may arise |
 | **CI/CD Integration** | Streamlines DevOps workflows, automation, and deployment | Downtime or misconfiguration can cause disruptions |
 
+<br>
+
 ## Conclusion
 
 Application repositories play a vital role in software development, deployment, and maintenance. Identifying and utilizing the right repositories ensures efficiency, security, and scalability in managing applications. By leveraging both public and private repositories appropriately, organizations can streamline their software workflows while ensuring compliance, governance, and security best practices.
+
+<br>
 
 ## Contacts
 
 | Name| Email Address      |
 |-----|--------------------------|
 | Manu Saxena | manu.saxena@mygurukulam.co|
+
+<br>
 
 ## References
 |**Reference** | **Description** |
