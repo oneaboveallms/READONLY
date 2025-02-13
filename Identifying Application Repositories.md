@@ -29,7 +29,7 @@ Identifying application repositories is crucial for various reasons:
 
 | **Category** | **Repositories** |
 |-------------|----------------|
-| **Public Repositories** | GitHub, GitLab, Bitbucket, Docker Hub, PyPI, Maven Central, npm, RubyGems |
+| **Public Repositories** | GitHub, GitLab, Bitbucket, PyPI, Maven Central, npm |
 | **Private Repositories** | Nexus Repository Manager, JFrog Artifactory, AWS CodeCommit, Azure DevOps Repos, Google Artifact Registry |
 | **OS-Specific Repositories** | Ubuntu/Debian (APT), Red Hat/CentOS (YUM/DNF), Arch Linux (AUR) |
 | **Cloud Repositories** | AWS CodeArtifact, Google Cloud Source Repositories, Azure DevOps Repos |
