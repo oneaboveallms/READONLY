@@ -17,13 +17,13 @@ Application repositories serve as centralized locations where software applicati
 
 ## Why Identify Application Repositories?
 
-| **Reason** | **Description** |
-|------------|----------------|
-| **Efficient Software Management** | Ensures seamless installation, updates, and dependency resolution. |
-| **Security** | Helps track trusted sources and mitigate risks from unauthorized software sources. |
-| **Compliance** | Ensures adherence to organizational policies, licensing terms, and industry standards. |
-| **Version Control** | Facilitates rollback, controlled upgrades, and auditability of changes. |
-| **Collaboration** | Supports team-based development, CI/CD pipelines, and secure code sharing. |
+Identifying application repositories is crucial for various reasons:
+- **Efficient Software Management**: Ensures seamless installation, updates, and dependency resolution.
+- **Security**: Helps track trusted sources and mitigate risks from unauthorized software sources.
+- **Compliance**: Ensures adherence to organizational policies and industry standards.
+- **Version Control**: Facilitates rollback and controlled upgrades.
+- **Collaboration**: Supports team-based development and CI/CD pipelines.
+
 
 ## List of Application Repositories
 
