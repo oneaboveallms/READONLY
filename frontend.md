@@ -77,7 +77,8 @@ To set up the environment for the frontend application follow the above link.
 
 If the frontend is displayed correctly, the application is up and running.
 
-![frontend](https://github.com/user-attachments/assets/6d7a46a7-5eed-460b-a014-6dbdfd260a3f)
+![image](https://github.com/user-attachments/assets/3fdd8634-f2eb-4cb8-beae-b570908c3658)
+
 
 
 ## Conclusion
