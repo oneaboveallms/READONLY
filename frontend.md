@@ -64,6 +64,7 @@ The Salary API is a Java-based microservice that handles salary-related records 
 
 ## Architecture
 
+![arch](https://github.com/user-attachments/assets/2dc7058f-f55f-47ee-a35b-05beb6b1b5f4)
 
 
 
