@@ -29,13 +29,14 @@ The frontend app depends on REST APIs from OT-Microservices. To run it properly,
 
 Follow the links below for setup instructions:
 
-* **[Employee API](https://github.com/snaatak-Zero-Downtime-Crew/Documentation/blob/Anuj-SCRUM-6/OT%20MS%20Understanding/Application/Employee/POC/README.MD)** <br>
+* **[Employee API](https://github.com/Snaatak-Skyops/Documentation/tree/SCRUM-6/OT%20MS%20Understanding/Application/Employee/POC)** <br>
 The Employee REST API is a Golang-based microservice that handles employee-related operations. It manages tasks like employee creation, updates, and records in the OT-Microservices stack.<br>
 
-* **[Attendance API](https://github.com/snaatak-Zero-Downtime-Crew/Documentation/blob/Aayush-SCRUM-2/OT%20MS%20Understanding/Applications/Attendance%20/POC/README.md)**<br>
+* **[Attendance API](https://github.com/Snaatak-Skyops/Documentation/blob/SCRUM-4/OT%20MS%20Understanding/Application/Attendance/POC/README.md)**<br>
+
 The Attendance REST API is a Python-based microservice responsible for managing employee attendance in the OT-Microservices stack.<br>
 
-* **[Salary API](https://github.com/snaatak-Zero-Downtime-Crew/Documentation/blob/Nikita-SCRUM-8/OT%20MS%20Understanding/Applications/Salary/POC/README.md)**<br>
+* **[Salary API](https://github.com/Snaatak-Skyops/Documentation/blob/2c47921cb0fb386434232b2944d3ca1005463f11/OT%20MS%20Understanding/Application/Salary/POC/README.md)**<br>
 The Salary API is a Java-based microservice that handles salary-related records and processes within the OT-Microservices stack.<br>
 
 ## System Requirements
