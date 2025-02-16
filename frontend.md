@@ -1,8 +1,8 @@
 # Frontend Detailed Documentation
 
-| **Author** | **Created on** | **Last updated by** |**Version**| **Internal Reviewer** | 
-|------------|----------------|---------------------|-----------|---------------|
-| Manu Saxena | 16-02-25      | Manu Saxena        | v1 | Siddharth Pawar |  | | |
+| **Author** | **Created on** | **Last updated by** |**Version**| **Internal Reviewer** | **Reviewer L0** |**Reviewer L1** |**Reviewer L2** |
+|------------|----------------|---------------------|-----------|--------------------|---------------|---------------|---------------|---------------|
+| Manu Saxena | 17-02-25      | Manu Saxena         | v1 | Siddharth Pawar |  | | |
 
 ## **Table of Contents**  
 1. [Introduction](#introduction)  
