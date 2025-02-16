@@ -84,7 +84,7 @@ If the frontend is displayed correctly, the application is up and running.
 
 ## Conclusion
 
-The OT-Microservices stack consists of a ReactJS frontend and backend services, utilizing Redis for caching, ScyllaDB for NoSQL storage, and PostgreSQL for relational data. It efficiently manages Employee, Salary, and Attendance data. Redis enhances response speed, while ScyllaDB and PostgreSQL provide reliable data storage. This architecture ensures seamless and efficient employee management.
+The OT-Microservices stack consists of a ReactJS frontend and backend services, utilizing Redis for caching, ScyllaDB for NoSQL storage, and PostgreSQL for relational data. It efficiently manages Employee, Salary and Attendance data. Redis enhances response speed, while ScyllaDB and PostgreSQL provide reliable data storage. This architecture ensures seamless and efficient employee management.
 
 ## Contacts
 
