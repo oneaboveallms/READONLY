@@ -53,33 +53,33 @@ Application repositories is crucial for various reasons:
 | **CI/CD Repository** | Holds Jenkins pipelines, GitHub Actions, or other CI/CD configurations. | **Jenkins**, **GitLab CI**, **GitHub Actions**, **CircleCI** |
 
 ### **4. Based on Development Workflow**
-| **Repository** | **Description** | **Examples** |
-|----------------|-----------------|----------------------|
-| **Feature Repository** | Contains a specific feature branch or experimental code. | **Git**, **GitHub**, **GitLab** |
-| **Forked Repository** | A copy of an original repo, used for contributions and modifications. | **GitHub**, **GitLab**, **Bitbucket** |
-| **Template Repository** | A base template for creating new projects. | **Yeoman**, **Cookiecutter**, **GitHub Templates** |
+| **Repository** | **Description** |
+|----------------|-----------------|
+| **Feature Repository** | Contains a specific feature branch or experimental code. |
+| **Forked Repository** | A copy of an original repo, used for contributions and modifications. |
+| **Template Repository** | A base template for creating new projects. |
 
 ### **5. Based on Source Code Management**
-| **Repository** | **Description** | **Examples** |
-|----------------|-----------------|----------------------|
-| **Public Repository** | Open to everyone. | **GitHub**, **GitLab**, **Bitbucket** |
-| **Private Repository** | Restricted access. | **GitHub Private Repos**, **GitLab**, **Bitbucket** |
-| **Mirror Repository** | A replica of another repository, often used for backup. | **Git**, **GitHub Mirroring**, **GitLab Mirroring** |
+| **Repository** | **Description** |
+|----------------|-----------------|
+| **Public Repository** | Open to everyone. |
+| **Private Repository** | Restricted access. |
+| **Mirror Repository** | A replica of another repository, often used for backup. |
 
 
 
 ### 6. Documentation Repositories
 
-| **Repository Type**        | **Description**                                             | **Example Tools**                      |
-|----------------------------|-------------------------------------------------------------|----------------------------------------|
-| **Project Documentation**  | Contains detailed documentation specific to individual projects. | **ReadTheDocs**, **MkDocs**, **Docusaurus** |
-| **Process Documentation**  | Provides documentation on development processes, guidelines, and best practices. | **Confluence**, **GitBook**  |
+| **Repository Type**        | **Description**                                             |
+|----------------------------|-------------------------------------------------------------|
+| **Project Documentation**  | Contains detailed documentation specific to individual projects. |
+| **Process Documentation**  | Provides documentation on development processes, guidelines, and best practices. |
 
 ### 7. Archived Repositories
 
-| **Repository Type**        | **Description**                                             | **Example Tools**                      |
-|----------------------------|-------------------------------------------------------------|----------------------------------------|
-| **Legacy Projects**         | Contains code for projects that are no longer actively developed but retained for reference or historical purposes. | **Git**, **Bitbucket**, **GitHub** (for archiving) |
+| **Repository Type**        | **Description**                                             |
+|----------------------------|-------------------------------------------------------------|
+| **Legacy Projects**         | Contains code for projects that are no longer actively developed but retained for reference or historical purposes. |
 
 
 <br>
