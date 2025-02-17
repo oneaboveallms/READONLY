@@ -41,15 +41,14 @@ Application repositories is crucial for various reasons:
 ### **2. Based on Application Type**
 | **Repository** | **Description** | **Examples** |
 |----------------|-----------------|----------------------|
-| **Frontend Repository** | Contains UI-related code. | **React**, **Angular**, **Vue.js**, **Svelte** |
+| **Frontend Repository** | Contains UI-related code. | **React**, **Angular**, **Vue.js** |
 | **Backend Repository** | Hosts server-side code. | **Node.js**, **Spring Boot**, **Django**, **Express** |
-| **Full-Stack Repository** | Includes both frontend and backend code in one place. | **MERN Stack**, **MEAN Stack**, **JAMstack** |
-| **Mobile App Repository** | Contains code for mobile applications. | **Android Studio**, **Xcode**, **Flutter**, **React Native** |
+| **Full-Stack Repository** | Includes both frontend and backend code in one place. | **MERN Stack**, **MEAN Stack** |
 
 ### **3. Based on Deployment & Infrastructure**
 | **Repository** | **Description** | **Examples** |
 |----------------|-----------------|----------------------|
-| **Microservices Repository** | Each microservice has a separate repository. | **Docker**, **Kubernetes**, **Istio**, **Spring Cloud** |
+| **Microservices Repository** | Each microservice has a separate repository. | **Docker**, **Kubernetes** |
 | **Infrastructure Repository** | Stores Infrastructure as Code (IaC) files. | **Terraform**, **Ansible**, **Chef**, **Puppet**, **CloudFormation** |
 | **CI/CD Repository** | Holds Jenkins pipelines, GitHub Actions, or other CI/CD configurations. | **Jenkins**, **GitLab CI**, **GitHub Actions**, **CircleCI** |
 
@@ -74,7 +73,7 @@ Application repositories is crucial for various reasons:
 | **Repository Type**        | **Description**                                             | **Example Tools**                      |
 |----------------------------|-------------------------------------------------------------|----------------------------------------|
 | **Project Documentation**  | Contains detailed documentation specific to individual projects. | **ReadTheDocs**, **MkDocs**, **Docusaurus** |
-| **Process Documentation**  | Provides documentation on development processes, guidelines, and best practices. | **Confluence**, **GitBook**, **Notion**  |
+| **Process Documentation**  | Provides documentation on development processes, guidelines, and best practices. | **Confluence**, **GitBook**  |
 
 ### 7. Archived Repositories
 
@@ -99,7 +98,7 @@ Application repositories is crucial for various reasons:
 
 ## Conclusion
 
-Application repositories play a vital role in software development, deployment, and maintenance. Identifying and utilizing the right repositories ensures efficiency, security and scalability in managing applications. By leveraging both public and private repositories appropriately, organizations can streamline their software workflows while ensuring compliance, governance and security best practices.
+Application repositories are important for developing, deploying, and maintaining software. Choosing the right repositories helps improve efficiency, security, and scalability in managing applications. By using both public and private repositories correctly, organizations can simplify their software processes while following security rules and best practices.
 
 <br>
 
@@ -111,12 +110,11 @@ Application repositories play a vital role in software development, deployment, 
 
 <br>
 
+
 ## References
-|**Reference** | **Description** |
-|-------------|----------------|
-| [GitHub Docs](https://docs.github.com) | Official GitHub documentation |
-| [Docker Hub Docs](https://hub.docker.com) | Docker Hub repository documentation |
-| [Nexus Repository](https://help.sonatype.com/) | Sonatype Nexus documentation |
-| [JFrog Artifactory](https://jfrog.com/artifactory/) | JFrog Artifactory official documentation |
-| [Repository Management](https://martinfowler.com/articles/microservices.html) | Repository management guidelines and best practices |
-| [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/) | DevOps best practices and repository management |
+| **Reference** | **Description** |
+|---------------|-----------------|
+| [Built In - What Is Repository?](https://builtin.com/software-engineering-perspectives/repository?utm_source=chatgpt.com) | Explanation of repositories, their importance, and how to clone them. |
+| [EMB Blogs - Code Repositories](https://blog.emb.global/essentials-of-code-repository/?utm_source=chatgpt.com) | Essentials of code repositories, centralized vs. distributed repositories. |
+| [GitHub - What are Code Repositories?](https://github.com/resources/articles/software-development/what-are-code-repositories?utm_source=chatgpt.com) | Insights into code repositories, their functionalities, and collaboration. |
+| [AWS - What is Repo?](https://aws.amazon.com/what-is/repo/?utm_source=chatgpt.com) | Explanation of repositories, their significance, and related concepts. |
